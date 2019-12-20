@@ -7,8 +7,8 @@ class PostSerializer(HyperlinkedModelSerializer):
         model = Post
         fields = ['is_boast',
                   'content',
-                  'author',
                   'up_votes',
                   'down_vote',
                   'post_date',
-                  'net_votes']
+                  'net_votes', 
+                  'id']
