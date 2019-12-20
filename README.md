@@ -1,1 +1,3 @@
-GhostPost2-backend
+Link to frontend:
+
+https://github.com/astephens91/GhostPost2-frontend
